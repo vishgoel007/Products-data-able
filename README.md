@@ -27,7 +27,6 @@
   - Category multi select dropdown.
   - Rating slider (min rating).
   - Clear all filters button.
-- Search:
   - Case insensitive search across Title, Brand, Category, Availability.
 - Pagination:
   - Client side pagination with rows per page selector.
@@ -35,6 +34,7 @@
   - Retry button on failure.
 - Loading state:
   - Shimmer placeholders.
+- All sorting and filtering work simultaneously.
 - Responsive Layout using Material UI.
 
 
