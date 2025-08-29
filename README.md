@@ -1,3 +1,21 @@
+## Prerequisites
+
+- Node.js (v20 or higher recommended)
+- npm as package manager
+
+---
+
+## Running the Project Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/vishgoel007/Products-data-able.git
+   cd Products-data-able
+
+   npm install
+
+   npm run dev
+
 ##  Features
 
 - Display products in a tabular format.
